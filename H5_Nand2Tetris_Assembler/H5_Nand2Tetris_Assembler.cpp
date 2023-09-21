@@ -287,6 +287,5 @@ int main()
 			}
 		}
 	}
-
 	textFile.close();
 }
